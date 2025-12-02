@@ -3,7 +3,7 @@
 A simple Python program to calculate Body Mass Index (BMI).
 
 ## 📌 What is BMI?
-BMI (Body Mass Index) is a number calculated using weight and height to determine if a person is underweight, normal, overweight, or obese.
+BMI (Body Mass Index) is a value calculated using weight and height to determine if a person is underweight, normal, overweight, or obese.
 
 ---
 
@@ -15,13 +15,8 @@ python bmi.py
 
 The program will ask for:
 
-Weight (kg)
+◻️ Weight (kg)
 
-Height (m)
+◻️ Height (m)
 
-Then it prints your BMI and the health category.
-
-Enter your weight (kg): 70
-Enter your height (m): 1.75
-Your BMI is: 22.86
-Status: Normal weight
+Then it prints your BMI and your health category.
