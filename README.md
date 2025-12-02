@@ -12,3 +12,16 @@ Run the Python file:
 
 ```bash
 python bmi.py
+
+The program will ask for:
+
+Weight (kg)
+
+Height (m)
+
+Then it prints your BMI and the health category.
+
+Enter your weight (kg): 70
+Enter your height (m): 1.75
+Your BMI is: 22.86
+Status: Normal weight
